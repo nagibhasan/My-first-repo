@@ -4,3 +4,11 @@ p{
     box-shadow: gray 20px;
     box-sizing: 20px 30px;
 }
+h1{
+    color: darkblue;
+    
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+}
